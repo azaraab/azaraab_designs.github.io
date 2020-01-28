@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">	
+    <!-- OPTIONAL: description -->
+    <meta name="description" content="">
+    <!-- OPTIONAL: author -->
+    <meta name="author" content="sichangi james">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="icon.png" />
+
+		<!-- EDIT: title -->
+    <title>sichangi james Resume</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+
+    <!-- Link the main.css stylesheet -->
+    <link href="css/main.css" rel="stylesheet">
+    
+    <!-- OPTIONAL: Google Fonts (don't forget to edit main.css also) -->
+
+    <link href='//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+	<!-- Link the myjavascript.js -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/myjavascript.js"></script>
+	
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body>
+	
+	<div id="header" class="header">
+		<div class="container">
+			<div class="row centered">
+				<div class="col-lg-12">
+					<!-- EDIT: name -->
+					<h1>Sichangi James</h1>
+					<!-- EDIT: title | email -->
+					<h3>Full Stack Developer | <a href="mailto:sichangijames7@gmail.com" target="_blank">sichangijames7@gmail.com</a></h3>
+				</div><!--/.col-lg-12 -->
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/.header -->
+	
+
+	<section id="about" name="about"></section>
+	<div class="about">
+		<div class="container">
+			<div class="row">
+				
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>ABOUT</h5>
+					<img src="images/my.jpg" width="190px" height="120px">
+				</div>
+				<div class="col-lg-6">
+					<!-- EDIT: about -->
+					<p>I am currently a student at Jommo Kenyatta University of Agriculture and Technology majoring in Business and Information Technology(BBIT). I am passionate about technology, particularly graphic design and software development. I also enjoy building websites in my free time.</p>
+				</div>
+				
+				<div class="col-lg-3">
+					<!-- EDIT: download link -->
+					<!-- save the pdf file in the same resume folder and make sure that the name of the file is the same
+					as the one referenced by the hyperlink-->
+					<p><a href="sichangi cv.pdf" target="_blank"><i class="icon-file"></i> <sm>DOWNLOAD PDF</sm></a></p>
+				</div>
+				
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/ #intro -->
+
+
+	<section id="resume" name="resume"></section>
+	<!-- EDUCATION SECTION -->
+	<div class="container desc">
+		<div class="row">
+
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>EDUCATION</h5>
+				</div>
+				<!-- EDIT: education line 1 -->
+				<div class="col-lg-6">
+					<p><t>Jommo Kenyatta University of  Agriculture and Technology</t> <br>
+						Bachelor in Business and Information Technology, B.S. <br> </p>
+						
+					<p>Relevant Coursework:
+						<ul style="list-style:circle;">
+									<li>Fundamentals of Computer Programming</li>
+									<li>Object-Oriented Programming</li>
+									<li>Principles of Software Development</li>
+									<li>Discrete Methods in Computer Science</li> 
+									<li>Design and Analysis of Algorithms</li>
+									<li>Design for User Experience</li>
+									<li>Basic Organization of Computer Systems</li>
+									<li>Human Language and Technology</li>
+									<li>Mobile Application Development</li>
+									<li>Design and Construction of Large Software Systems</li>
+									<li>Operating Systems</li>
+									<li>File and Database Management</li>
+									<li>Advanced Web Technologies</li>
+									<li>Advanced Topics in Mobile App Development</li>
+								</ul>
+						<!--<br/><i>Extra info here</i>-->
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>Expected Graduation: JUNE 2018</sm><br/>
+					<imp><sm>IN PROGRESS</sm></imp>
+					</p>
+				</div>
+	
+				<br>
+				
+				<!-- EDIT: education line 2 -->
+				<div class="col-lg-6 col-lg-offset-3">
+					<p><t>Friends School Kaimosi Boys Highschool </t><br/>
+						 Kenya Certificate of Secondary Education
+						<!--<br/><i>Extra info here</i>-->
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>Graduation:NOV 2012</sm></p>
+				</div>
+	
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+	
+	<!-- WORK SECTION -->
+	<div class="container desc">
+		<div class="row">
+
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>WORK</h5>
+				</div>
+				<!-- EDIT: work line 1 -->
+				<div class="col-lg-6">
+					<p class="tight"><t>Junior Developer </t><br/>
+						VysilHQ Corp. <br/>
+					</p>
+					<p><more>Working directly with designers and engineers to design websites with a business minded approach and programming in front-end. Additional experience in SEO and Social Media campaigns.</more></p>
+					
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JS</span><span class="skill">PHOTOSHOP</span><span class="skill">MYSQL</span><span class="skill">PHP</span><span class="skill">WORDPRESS</span>
+					<br><br>
+				</div>
+				
+				<div class="col-lg-3">
+					<p><sm>JAN 2017 - CURRENT <br />
+					MiNNEAPOLIS, MN, USA</sm></p>
+					
+				</div>
+				
+				<!-- EDIT: work line 2-->
+				<div class="col-lg-6 col-lg-offset-3">
+					<p class="tight"><t> Information Technology Intern</t><br/>
+						JOMMO KENYATTA UNIVERSITY. <br/>
+					</p>
+					<p><more>Joined a team of product and software engineers within HyracTech to design, prototype and build Hyrac remote educational system. Worked as both a designer and developer on a variety of internal and client projects.</more></p>
+					
+					<span class="skill">HTML</span><span class="skill">CSS</span><span class="skill">JS</span><span class="skill">ANSIBLE</span><span class="skill">TCP/IP</span><span class="skill">PHP</span><span class="skill">LARAVEL</span>
+				
+				</div>
+				<div class="col-lg-3">
+					<p><sm>JUNE 2016 - AUGUST 2016 <br />
+					FARGO, ND, USA</sm></p>
+				</div>
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+
+
+	<div class="container desc">
+		<div class="row">
+	
+			<div class="col-lg-2 col-lg-offset-1">
+					<h5>SKILLS</h5>
+			</div>
+				
+			<div class="col-lg-8">	
+			
+				<div class="skillbar clearfix " data-percent="90%">
+				<div class="skillbar-title" style="background: #d35400;"><span>HTML5</span></div>
+				<div class="skillbar-bar" style="background: #e67e22;"></div>
+				<div class="skill-bar-percent">90%</div>
+				</div> <!-- End Skill Bar -->
+
+				<div class="skillbar clearfix " data-percent="90%">
+					<div class="skillbar-title" style="background: #2980b9;"><span>CSS3</span></div>
+					<div class="skillbar-bar" style="background: #3498db;"></div>
+					<div class="skill-bar-percent">70%</div>
+				</div> <!-- End Skill Bar -->
+
+				<div class="skillbar clearfix " data-percent="70%">
+					<div class="skillbar-title" style="background: #2c3e50;"><span>jQuery</span></div>
+					<div class="skillbar-bar" style="background: #2c3e50;"></div>
+					<div class="skill-bar-percent">50%</div>
+				</div> <!-- End Skill Bar -->
+
+				<div class="skillbar clearfix " data-percent="50%">
+					<div class="skillbar-title" style="background: #46465e;"><span>PHP</span></div>
+					<div class="skillbar-bar" style="background: #5a68a5;"></div>
+					<div class="skill-bar-percent">60%</div>
+				</div> <!-- End Skill Bar -->
+
+				<div class="skillbar clearfix " data-percent="65%">
+					<div class="skillbar-title" style="background: #333333;"><span>Wordpress</span></div>
+					<div class="skillbar-bar" style="background: #525252;"></div>
+					<div class="skill-bar-percent">90%</div>
+				</div> <!-- End Skill Bar -->
+
+				<div class="skillbar clearfix " data-percent="100%">
+					<div class="skillbar-title" style="background: #27ae60;"><span>SEO</span></div>
+					<div class="skillbar-bar" style="background: #2ecc71;"></div>
+					<div class="skill-bar-percent">100%</div>
+				</div> <!-- End Skill Bar -->
+
+				<div class="skillbar clearfix " data-percent="100%">
+					<div class="skillbar-title" style="background: #124e8c;"><span>Photoshop</span></div>
+					<div class="skillbar-bar" style="background: #4288d0;"></div>
+					<div class="skill-bar-percent">70%</div>
+				</div> <!-- End Skill Bar -->
+<div class="skillbar clearfix " data-percent="100%">
+					<div class="skillbar-title" style="background: #d35400;"><span>Computer</span></div>
+					<div class="skillbar-bar" style="background: #e67e22;"></div>
+					<div class="skill-bar-percent">100%</div>
+				</div> <!-- End Skill Bar -->
+<div class="skillbar clearfix " data-percent="100%">
+					<div class="skillbar-title" style="background: #2c3e50;"><span>Linux</span></div>
+					<div class="skillbar-bar" style="background: #2c3e50;"></div>
+					<div class="skill-bar-percent">100%</div>
+				</div> <!-- End Skill Bar -->
+			
+			</div>
+		</div><!--/.row -->
+		<br>
+		<hr>
+	</div><!--/.container -->
+	
+	<!-- AWARDS SECTION -->
+	<div class="container desc">
+		<div class="row">
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>AWARDS</h5>
+				</div>
+
+				<!-- EDIT: awards line 1-->
+				<div class="col-lg-6">
+					<p><t>PhotoKenya Certification</t><br/>
+						<a href="http://www.photokenya.com ">PhotoKenya.</a></p>
+						
+					<p>I was awarded certification in photography during their seasonal workshop held in Kitale and there was a session of wildlife photography in Mt Elgon Park where we were required to capture the most amazing pictures to be used in the gallery show room. We were taught on how to show the world the beauty of the places we come from just from photography.<br/>
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>NOVEMBER 2017</sm></p>
+				</div>
+	
+				<!-- EDIT: awards line 2-->
+				<div class="col-lg-6 col-lg-offset-3">
+					<p class="tight"><t>Volunteer of the month</t><br/>
+						Angel of Happyness.
+					</p>
+					<p><more>I was recognized for my efforts and dedication as volunteer worker in helping he needed in feeding and clothing them in various activities. I served as a support in the field of planning and technical support.</more></p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>NOVEMBER 2017</sm></p>
+				</div>
+		
+		</div><!--/.row -->
+		<br>
+	</div><!--/.container -->
+	
+
+	<section id="contact" name="contact"></section>
+	<!--FOOTER DESCRIPTION -->
+	<div id="footwrap" class="footer">
+		<div class="container">
+			<div class="row">
+			
+				<div class="col-lg-2 col-lg-offset-1">
+					<h5>CONTACT</h5>
+				</div>
+				<!-- EDIT: email -->
+				<div class="col-lg-6">
+					<p><t>Email</t><br/>
+						<a href="mailto: sichangijames7@gmail.com" target="_blank" class="mail"> sichangijames7@gmail.com</a> <br/>
+					</p>
+					<!-- EDIT: address -->
+					<p><t>Address</t><br/>
+						Nairobi. <br/>
+						Juja, 62000 <br/>
+						Kenya<br/>
+					</p>
+					<!-- EDIT: phone number -->
+					<p><t>Phone</t><br/>
+						<a href="tel:254717532745" class="tel">(254) 717-532745</a> <br/>
+					</p>
+				</div>
+				<div class="col-lg-3">
+					<p><sm>SOCIAL LINKS</sm></p>
+					<p>
+						<!-- EDIT: Social Links. Replace # with your URL for each -->
+						<a href="#" target="_blank"><i class="icon-dribbble"></i></a>
+						<a href="#" target="_blank"><i class="icon-twitter"></i></a>
+						<a href="https://www.facebook.com/mjames.jimmy" target="_blank"><i class="icon-facebook"></i></a>
+						<a href="#" target="_blank"><i class="icon-linkedin"></i></a>
+						<!--<a href="https://github.com/azaraab" target="_blank"><i class="icon-github"></i></a>-->
+					</p>
+				</div>
+			</div><!--/.row -->
+		</div><!--/.container -->
+	</div><!--/ #footer -->
+  </body>
+</html>
